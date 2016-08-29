@@ -1,3 +1,3 @@
-<<C Interfaces and Implementations>>
+**C Interfaces and Implementations**
 
 Thchniques for Creating Reusable Software
